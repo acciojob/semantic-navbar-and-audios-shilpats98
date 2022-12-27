@@ -1,2 +1,6 @@
 
-/* Your CSS Code here. */
+.nav-bar li{
+    display: inline-block;
+   margin-left: 100px;
+   
+}
